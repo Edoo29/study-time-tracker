@@ -8,3 +8,6 @@ With this product, you can also see your previous study sessions.
 USAGE: \
 First, copy the `main.cpp` file in a your directory. \
 Go to the directory of the `main.cpp` file and write `g++ main.cpp` to compile the file (only the first time) and `./a` to run the .exe file.
+
+NOTE: \
+You must have the "cat" tool installed.
