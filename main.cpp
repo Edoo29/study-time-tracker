@@ -58,7 +58,7 @@ int main() {
         break;
       }
     } else if (first_response == 2) {
-      system("cat sessions.txt");
+      system("type sessions.txt");
       cout << "After 10 seconds, you will be redirect to the main menu\n";
       sleep(10);
     } else if (first_response == 3) {
