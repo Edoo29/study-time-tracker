@@ -12,14 +12,6 @@ int main() {
   int first_response, saving_option_response;
   string subject, initial_hours, initial_minutes, random_letter_to_show_menu;
 
-  cout << "              year: " << INITIAL_CALENDAR_TIME.tm_year + 1900 << '\n'
-       << "    month (jan==1): " << INITIAL_CALENDAR_TIME.tm_mon + 1 << '\n'
-       << "      day of month: " << INITIAL_CALENDAR_TIME.tm_mday << '\n'
-       << "hour (24-hr clock): " << INITIAL_CALENDAR_TIME.tm_hour << '\n'
-       << "            minute: " << INITIAL_CALENDAR_TIME.tm_min;
-
-  cout << asctime(addressof(INITIAL_CALENDAR_TIME));
-
   while (true) {
     system("cls");
     cout << "What do you want to do?\n(1) New session  (2) Show sessions  (3) "
