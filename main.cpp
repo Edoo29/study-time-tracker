@@ -51,8 +51,8 @@ int main() {
              << INITIAL_CALENDAR_TIME.tm_year + 1900 << "/"
              << INITIAL_CALENDAR_TIME.tm_mon + 1 << "/"
              << INITIAL_CALENDAR_TIME.tm_wday << "\nSubject: " << subject
-             << "\nDuration time: " << total_hours << ":" << total_minutes
-             << endl;
+             << "\nDuration time: " << total_hours << "h" << ":"
+             << total_minutes << "m\n";
         file.close();
       } else {
         break;
