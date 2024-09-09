@@ -1,8 +1,8 @@
 # Study time tracker
 
 PRODUCT DESCRIPTION: \
-Track your study time with this simply terminal-based app, which track automatically your time. \
-You can give a name to your sessions with se "subjects system". \
+Track your study time with this simply terminal-based app, which count automatically your time. \
+You can give a name to your sessions with the "subjects system". \
 With this product, you can also see your previous study sessions.
 
 USAGE: \
