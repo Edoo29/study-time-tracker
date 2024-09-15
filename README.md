@@ -1,10 +1,33 @@
 # Study time tracker
 
-PRODUCT DESCRIPTION: \
+## PRODUCT DESCRIPTION
+
 Track your study time with this simply terminal-based app, which count automatically your time. \
 You can give a name to your sessions with the "subjects system". \
 With this product, you can also see your previous study sessions.
 
-USAGE: \
-First, copy the `main.cpp` file in a your directory. \
-Go to the directory of the `main.cpp` file and write `g++ main.cpp` to compile the file (only the first time) and `./a` to run the .exe file.
+## USAGE
+
+1. Clone this repo
+
+```sh
+git clone https://github.com/Edoo29/study-time-tracker.git
+```
+
+2. Go to your project directory
+
+```sh
+cd your-project-directory
+```
+
+3. Compile the file
+
+```sh
+g++ main.cpp
+```
+
+4. Run the .exe file
+
+```sh
+./a
+```
