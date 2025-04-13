@@ -11,7 +11,7 @@ With this product, you can also see your previous study sessions.
 1. Clone this repo
 
 ```sh
-git clone https://github.com/Edoo29/study-time-tracker.git
+git clone https://github.com/Edoo29/study-time-tracker.git your-project-directory
 ```
 
 2. Go to your project directory
